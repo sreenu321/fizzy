@@ -78,7 +78,7 @@
 }
 
 .splat__bubble {
-  background-color: var(--splat-color);
+  background-color: var(--color-bg);
   border: 0.3em solid var(--splat-color);
   border-radius: 50%;
   position: absolute;
@@ -89,13 +89,13 @@
   }
 
   &.splat__category {
-    inset: auto auto 10cqi 0cqi;
+    inset: auto auto 10cqi -3cqi;
 
     + & {
-      inset: auto auto -2cqi 16cqi;
+      inset: auto auto -2cqi 13cqi;
 
       + & {
-        inset: auto auto -10cqi 32cqi;
+        inset: auto auto -12cqi 29cqi;
       }
     }
 
@@ -124,8 +124,18 @@
     scale: 1;
     text-overflow: ellipsis;
     transform: none;
-    transition: all 200ms ease-out;
+    transition: transform 200ms ease-out;
     white-space: nowrap;
+    z-index: 1;
+
+    &:has(.input) {
+      border-radius: 2em;
+      padding: 0.2em 0.5em;
+
+      .input {
+        color: var(--splat-color);
+      }
+    }
   }
 
   @media (hover: hover) {
